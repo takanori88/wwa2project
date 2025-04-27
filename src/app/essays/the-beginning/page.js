@@ -25,7 +25,7 @@ export default function TheBeginning() {
           <h2>それは確かに注目に値します</h2>
           <p>もう少し深掘りしてみましょうか。</p>
           <pre>
-            <code>const insight = "閃き";</code>
+            <code>const insight = &quot;閃き&quot;;</code>
           </pre>
         </div>
       </AI>
