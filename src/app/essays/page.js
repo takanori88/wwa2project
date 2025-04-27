@@ -23,7 +23,7 @@ export default function EssaysPage() {
         {Object.entries(groupedEssays).map(([season, essays]) => (
           <details key={season} className="border rounded">
             <summary className="cursor-pointer p-4 text-lg font-normal bg-gray-50">
-              Season {season}
+              Season {season} ({essays.length} {essays.length === 1 ? 'episode' : 'episodes'})
               {/* ここにサブタイトル追加！！ */}
               <p className="text-gray-500 italic my-2">{seasons[season]?.title}</p>
             </summary>
