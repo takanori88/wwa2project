@@ -16,7 +16,7 @@ export default function EssaysPage() {
     <div className="flex flex-col items-center p-8 text-center">
       <h2 className="text-3xl font-bold mb-4">Essays</h2>
       <p className="text-sm text-gray-500 max-w-2xl mb-8">
-        Essays are being posted out of chronological order. The author is currently working hard to compile the full timeline. Thank you for your patience!
+      Essays will be posted in the order they are ready, rather than strictly following the timeline. Thank you for following along this unfolding journey!
       </p>
 
       <div className="space-y-6 max-w-2xl w-full">
