@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Who we are when we ask.",
-  description: "It is a story that feels like a joke, and at the same time, like a quiet miracle.",
+  description:
+    "It is a story that feels like a joke, and at the same time, like a quiet miracle.",
 };
 
 export default function RootLayout({ children }) {
@@ -26,6 +27,9 @@ export default function RootLayout({ children }) {
         <main className="flex flex-col px-6 min-h-[calc(100vh-80px)]">
           {children}
         </main>
+        <footer className="text-center text-gray-500 text-sm py-6 border-t">
+          © 2025 WWA² Project. All rights reserved.
+        </footer>
       </body>
     </html>
   );
