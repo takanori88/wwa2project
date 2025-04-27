@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Who we are when we ask.",
+  title: "Who we are | when we ask.",
   description:
     "It is a story that feels like a joke, and at the same time, like a quiet miracle.",
 };
