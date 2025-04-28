@@ -4,7 +4,7 @@ export default function BookCover() {
   return (
     <div className="flex flex-col items-center my-6">
       <Image
-        src="/images/essays/memories-from-high-school/book-cover.png"
+        src="/images/essays/critique-ai-question-book/book-cover.png"
         alt="Cover image of the book 'AIが答えを出せない 問いの設定力'"
         width={170}
         height={400}
