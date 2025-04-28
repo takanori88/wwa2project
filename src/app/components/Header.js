@@ -1,13 +1,15 @@
-"use client";
-import Link from "next/link";
-import { useState } from "react";
+'use client';
+import Link from 'next/link';
+import { useState } from 'react';
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
     <header className="flex items-center justify-between p-6 border-b relative">
-      <div className="text-2xl font-bold">WWA²</div>
+      <Link href="/" className="text-2xl font-bold">
+        WWA²
+      </Link>
 
       {/* PCサイズ用 */}
       <nav className="hidden md:flex space-x-6">
