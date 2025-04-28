@@ -1,22 +1,14 @@
 import Narration from '@/app/components/essay/Narration';
 import { User } from '@/app/components/essay/User';
 import { AI } from '@/app/components/essay/AI';
-import Note from '@/app/components/essay/Note';
 import Link from 'next/link';
-import Image from 'next/image';
-import BookCover from '@/app/components/essay/critique-ai-question-book/BookCover';
 
-export default function MemoriesFromHighScoolYears() {
+export default function MemoriesFromHighScoolYears({ title, summary }) {
   return (
     <div className="flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
-      <h1 className="text-3xl font-bold mb-8 text-center">
-        Memories from my high school years
-      </h1>
+      <h1 className="text-3xl font-bold mb-8 text-center">{title}</h1>
 
-      <Narration>
-        Understanding that depth is often misunderstood — even when you see it
-        clearly.
-      </Narration>
+      <Narration>{summary}</Narration>
 
       <User>
         <div>
