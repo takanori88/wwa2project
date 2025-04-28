@@ -3,6 +3,8 @@ import { User } from '@/app/components/essay/User';
 import { AI } from '@/app/components/essay/AI';
 import Note from '@/app/components/essay/Note';
 import Link from 'next/link';
+import Image from 'next/image';
+import BookCover from '@/app/components/essay/memories-from-high-scool/BookCover';
 
 export default function MemoriesFromHighScoolYears() {
   return (
@@ -1470,16 +1472,7 @@ export default function MemoriesFromHighScoolYears() {
 
           <p>Here&#39;s the link:</p>
 
-          <p>
-            <a
-              href="https://www.amazon.co.jp/gp/product/B0CZDKBZ5V/ref=ppx_yo_dt_b_d_asin_title_351_o01?ie=UTF8&amp;psc=1"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              https://www.amazon.co.jp/gp/product/B0CZDKBZ5V/ref=ppx_yo_dt_b_d_asin_title_351_o01?ie=UTF8&amp;psc=1
-            </a>
-          </p>
+          <BookCover />
 
           <p>I&#39;ll continue reading a bit more carefully, though.</p>
         </div>
@@ -1906,18 +1899,28 @@ export default function MemoriesFromHighScoolYears() {
       </AI>
       <User>
         <div className="space-y-4">
-          <p>
+          <blockquote className="border-l-4 border-gray-300 pl-4 italic text-gray-700">
             &quot;I feel that confronting questions that arise and fade away can
             be effective in many areas such as work, human relationships, and
             one&apos;s own life. Also, among them, there are many questions that
             AI cannot answer.&quot;
-          </p>
+          </blockquote>
 
           <p>
             It&apos;s close, but... I wonder if the very way this question is
             framed might be mistaken? Well, maybe it&apos;s just how I feel,
             though.
           </p>
+          <div className="text-center text-sm text-gray-500 mt-8">
+            <blockquote className="border-l-4 border-gray-300 pl-4 italic text-gray-700">
+              &quot;後に述べるように浮かんでは消えるような『問い』に向き合うことは、仕事・人間関係・自分の人生などあらゆる方面で効果的だと感じています。また、それらの『問い』の中には、ＡＩに答えられないものも多く存在します。&quot;
+            </blockquote>
+            <p className="mt-2">
+              ― 鳥潟幸志,{' '}
+              <span className="italic">AIが答えを出せない 問いの設定力</span>{' '}
+              (Function), Kindle Edition, pp. 45-46
+            </p>
+          </div>
         </div>
       </User>
       <AI>
@@ -2083,13 +2086,23 @@ export default function MemoriesFromHighScoolYears() {
       </AI>
       <User>
         <div className="space-y-4">
+          <div className="flex flex-col items-center my-8">
+            <Image
+              src="/images/essays/memories-from-high-school/pict1.png"
+              alt="Illustration explaining the concept of 'rashisa' (らしさ)"
+              className="max-w-full h-auto rounded shadow"
+              width={300}
+              height={400}
+            />
+            <p className="text-sm text-gray-500 mt-2 text-center">
+              Source: Illustration from{' '}
+              <span className="italic">AIが答えを出せない 問いの設定力</span> by
+              幸志 鳥潟, (Function), Kindle Edition, p. 69.
+            </p>
+          </div>
           <p>
             What exactly is intended by the expression &quot;rashisa&quot;
             (らしさ)?
-          </p>
-
-          <p className="text-sm text-gray-500">
-            (Note: There is an illustration here, which will be added later.)
           </p>
         </div>
       </User>
