@@ -84,11 +84,11 @@ export default function Header() {
             Philosophy
           </Link>
           <Link
-            href="/questions"
+            href="/glossary"
             className="hover:underline"
             onClick={() => setIsOpen(false)}
           >
-            Open Questions
+            Glossary
           </Link>
         </div>
       )}
