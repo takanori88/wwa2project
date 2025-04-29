@@ -1,3 +1,3 @@
 export default function MdxLayout({ children }) {
-  return <div className="mx-auto mb-8">{children}</div>;
+  return <div className="markdown-content mx-auto mb-8">{children}</div>;
 }

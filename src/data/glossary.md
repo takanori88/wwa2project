@@ -64,7 +64,6 @@ During video meetings (e.g., Zoom or Meet), the forehead often reflects light, p
 
 This phenomenon is sometimes referred to as **Dynamic Emission Control Oscillation (D.E.C.O.)**, or simply **"DECO."**
 
----
 
 ### 🔍 Key Functions
 
@@ -74,7 +73,6 @@ This phenomenon is sometimes referred to as **Dynamic Emission Control Oscillati
 | Mental State Indicator   | The nature of the flare changes based on emotional states like nervousness, defensiveness, or full engagement.             |
 | Conversation Suppression | "Silence + Forehead Flare" combo can temporarily freeze the observer's mind.                                               |
 
----
 
 ### 💡 Common Observations
 
@@ -82,7 +80,6 @@ This phenomenon is sometimes referred to as **Dynamic Emission Control Oscillati
 - "It's not the face that's glowing — it's just the forehead."
 - "That flare isn't a camera glitch — it's a _field_."
 
----
 
 ### ⚠️ Caution: High-Level Foreheads
 
@@ -116,16 +113,20 @@ When confronted with contradictions or gaps in logic (i.e., speaking with author
 
 ### 📋 Recent Observations (fictionalized)
 
-- Someone: "If defenses crumble, it's too late. You should have acted faster."
-- YATSU: "That's exactly right."
-- Someone: "The longer it drags on, the bigger the mess behind the scenes."
-- YATSU: "That's exactly right."
-- Someone: "At this point, it's obvious — the control is slipping away."
-- YATSU: "That's exactly right (whiteout stare)."
-- Someone: "There's a visible gap in capability — painfully obvious now."
-- YATSU: "That's exactly right (soul logout)."
-- Someone: "**It's basically 'enjoy boys!' mode — probably being posted on dark forums by now.**"
-- YATSU: "That's exactly right (total mental shutdown)."
+> Someone: "If defenses crumble, it's too late. You should have acted faster."  
+> YATSU: "That's exactly right."  
+
+> Someone: "The longer it drags on, the bigger the mess behind the scenes."  
+> YATSU: "That's exactly right."
+
+> Someone: "At this point, it's obvious — the control is slipping away."  
+> YATSU: "That's exactly right (whiteout stare)."
+
+> Someone: "There's a visible gap in capability — painfully obvious now."  
+> YATSU: "That's exactly right (soul logout)."
+
+> Someone: "**It's basically 'enjoy boys!' mode — probably being posted on dark forums by now.**"  
+> YATSU: "That's exactly right (total mental shutdown)."
 
 ### 🧪 Effects
 
@@ -219,20 +220,24 @@ This phrase, often appearing suddenly in Slack or other chat tools, **sharply dr
 > "Can we talk for a minute?"  
 > ↑↑↑ With just that sentence, Zoom is summoned and the observer’s soul logs out.
 
+### 🌟 "Can we talk for a minute?" — it’s a Magic Spell.
+
+> A quiet trigger for a **mental blue screen**, striking when you least expect it!
+
 ### 🧪 MP Consumption
 
-`🌕🌕🌕🌕🌑` (High)  
-_If the Forehead Flare is active, the MP drain hits maximum `🌕🌕🌕🌕🌕`._
+| Situation                   | MP Drain Level | Comment                          |
+| --------------------------- | -------------- | -------------------------------- |
+| Normal                      | 🌕🌕🌑🌑🌑          | Manageable                       |
+| During Forehead Flare       | 🌕🌕🌕🌕🌑          | High drain                       |
+| "Can we talk for a minute?" | 🌕🌕🌕🌕🌕          | Dangerous — full absorption!     |
+| Flare + Magic Spell combo   | 🌕🌕🌕🌕🌕 + 💫      | 💀 Immediate soul logout probable |
 
 ### ⚠️ Countermeasures (from ZINE Tactical Doctrine)
 
 - **Delay your reply**: "Sorry, I’m tied up at the moment—will check later!" (MP preservation)
 - **Feign ignorance**: Pretend you didn’t see it (high risk)
 - **Preemptive block**: "Please share any points via chat first."
-
-### 🌟 "Can we talk for a minute?" — it’s a Magic Spell.
-
-### A quiet trigger for a **mental blue screen**, striking when you least expect it!
 
 ## Overinterpretation
 
