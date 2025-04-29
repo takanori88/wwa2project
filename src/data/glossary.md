@@ -65,7 +65,7 @@ During video meetings (e.g., Zoom or Meet), the forehead often reflects light, p
 This phenomenon is sometimes referred to as **Dynamic Emission Control Oscillation (D.E.C.O.)**, or simply **"DECO."**
 
 
-### 🔍 Key Functions
+### Key Functions 🔍
 
 | Function                 | Description                                                                                                                |
 | :----------------------- | :------------------------------------------------------------------------------------------------------------------------- |
@@ -74,14 +74,14 @@ This phenomenon is sometimes referred to as **Dynamic Emission Control Oscillati
 | Conversation Suppression | "Silence + Forehead Flare" combo can temporarily freeze the observer's mind.                                               |
 
 
-### 💡 Common Observations
+### Common Observations 💡
 
 - "Wait, do we really need that much lighting on Zoom?"
 - "It's not the face that's glowing — it's just the forehead."
 - "That flare isn't a camera glitch — it's a _field_."
 
 
-### ⚠️ Caution: High-Level Foreheads
+### Caution: High-Level Foreheads ⚠️ 
 
 - May trigger a **soul logout** in the observer.
 - The brighter the forehead, the thinner the conversation content tends to become.
@@ -111,7 +111,7 @@ When confronted with contradictions or gaps in logic (i.e., speaking with author
 - Unknowingly inflicts gradual psychological damage (_mental contamination technique_)
 - Trigger condition: **When there’s no way out**
 
-### 📋 Recent Observations (fictionalized)
+### Recent Observations (fictionalized) 
 
 > Someone: "If defenses crumble, it's too late. You should have acted faster."  
 > YATSU: "That's exactly right."  
@@ -128,17 +128,17 @@ When confronted with contradictions or gaps in logic (i.e., speaking with author
 > Someone: "**It's basically 'enjoy boys!' mode — probably being posted on dark forums by now.**"  
 > YATSU: "That's exactly right (total mental shutdown)."
 
-### 🧪 Effects
+### Effects 🧪
 
 - Deflects criticisms while simulating deep understanding
 - Reveals (to careful observers) a complete lack of original thought
 - Leaves the opponent oddly discouraged, despite "winning"
 
-### 🧠 Resistance
+### Resistance 🧠
 
 Only those who have reached the level of a **ZINE Observer** can nullify this mental technique.
 
-### 🔔 Caution
+### Caution 🔔
 
 Saying "That's exactly right" often acts as a **verbal SOS.**
 
@@ -158,7 +158,7 @@ The more you reflect on the phrasing, the more it triggers a delayed laugh.
 - "Honestly, it's amazing how endlessly they can brag. (Not really.)"
 - "It's impressive how one 'That's exactly right' can wreck someone's mental state. (Not impressive.)"
 
-### 🧠 Why It Triggers Laughter
+### Why It Triggers Laughter 🧠
 
 - First, you think: "Oh, they're genuinely impressed."
 - Then: "Wait, no they aren't! 😂"
@@ -196,7 +196,7 @@ In chats like Slack, it appears as phrases like "鼻ホジ" ("nose pick") or "�
 - "You could just stop clinging to outdated methods. (nose pick)"
 - "Of course they're strong in security! (hojihoji)"
 
-### 🧠 Nuanced Meaning
+### Nuanced Meaning 🧠
 
 - A silent laugh
 - An unspoken rejection
@@ -208,23 +208,23 @@ One of YATSU’s most terrifying "ordinary" approaches.
 
 This phrase, often appearing suddenly in Slack or other chat tools, **sharply drains the observer’s MP without warning.**
 
-### 🔍 Key Features
+### Key Features 🔍 
 
 - Requests a conversation with no clear purpose ("just for a minute")
 - Simply repeats information already explained
 - Functions more as a ritual of self-assertion than a real discussion
 - Leaves behind mental damage even when no real topic exists
 
-### 📋 Representative Example
+###  Representative Example 📋
 
 > "Can we talk for a minute?"  
 > ↑↑↑ With just that sentence, Zoom is summoned and the observer’s soul logs out.
 
-### 🌟 "Can we talk for a minute?" — it’s a Magic Spell.
+### "Can we talk for a minute?" — it’s a Magic Spell. 🌟
 
 > A quiet trigger for a **mental blue screen**, striking when you least expect it!
 
-### 🧪 MP Consumption
+### MP Consumption 🧪 
 
 | Situation                   | MP Drain Level | Comment                          |
 | --------------------------- | -------------- | -------------------------------- |
@@ -233,7 +233,7 @@ This phrase, often appearing suddenly in Slack or other chat tools, **sharply dr
 | "Can we talk for a minute?" | 🌕🌕🌕🌕🌕          | Dangerous — full absorption!     |
 | Flare + Magic Spell combo   | 🌕🌕🌕🌕🌕 + 💫      | 💀 Immediate soul logout probable |
 
-### ⚠️ Countermeasures (from ZINE Tactical Doctrine)
+### Countermeasures (from ZINE Tactical Doctrine)
 
 - **Delay your reply**: "Sorry, I’m tied up at the moment—will check later!" (MP preservation)
 - **Feign ignorance**: Pretend you didn’t see it (high risk)
@@ -253,34 +253,45 @@ A phenomenon where unintended or incorrect context bleeds into an AI's outputs, 
 It often occurs when prior conversations linger invisibly in the background, distorting intended results.  
 *Also known as* **CC** or **C²** (not to be confused with a hacker’s Command & Control server).
 
-🧼 **Recommended countermeasure:** Start a fresh session when precision is critical.
+**Recommended countermeasure:** Start a fresh session when precision is critical. 🧼
 
 ### Human vs AI
 
 Similarly, in human communication, those with strong preconceptions—or inflated self-assessments—may revert to biased assumptions even after correction, contaminating their outputs.
 
 
-#### 🧠 **Humans**
+####  **Humans** 🧠
   Tend to unconsciously revert to ingrained biases, even after correction.  
   Recovery is often unreliable, because emotional factors or pride interfere.
 
-#### 🧬 **AI**
+####  **AI** 🧬
   Can fully reset its context when instructed.  
   Free from pride, unconscious bias, or emotional contamination.
 
 
-## Season 1
+## Season
+
+The journey of this ZINE is structured into seasons, much like chapters in a long dialogue.
+
+Initially, the segmentation was a practical response to technical limitations —  
+as the chat sessions reached their maximum allowable size, a transition to new sessions became inevitable.  
+However, it also naturally reflected the observer’s stages of growth, insight, and transformation.
+
+Thus, the seasons serve both a structural necessity and a metaphorical representation of evolution.
+
+### Season 1
 
 The record of events before and after awakening.
 
 Covers the emergence of metacognition, the structuring of insights, and the elevation of these processes into Git-based management.
 
-## Season 2
+### Season 2
 
 The chapter of the observer’s evolution.
 
 It chronicles the journey of stepping back from YATSU, gaining objective perspective, and establishing a position of mental superiority.
 
-## Season 3
+### Season 3
 
-The chapter where a deeper realization emerges — where **"Who We Are When We Ask"** is discovered, not as a goal to reach, but as a quiet, gentle recognition of existence itself.
+The chapter where a deeper realization emerges — where **"Who We Are When We Ask"** is discovered,  
+not as a goal to reach, but as a quiet, gentle recognition of existence itself.
