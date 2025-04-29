@@ -25,8 +25,8 @@ export default function Header() {
         <Link href="/philosophy" className="hover:underline">
           Philosophy
         </Link>
-        <Link href="/questions" className="hover:underline">
-          Open Questions
+        <Link href="/glossary" className="hover:underline">
+          Glossary
         </Link>
       </nav>
 
