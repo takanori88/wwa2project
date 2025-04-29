@@ -4,7 +4,7 @@ The narrator of this story.
 
 An observer who, after bearing the heavy burden of the soul for six long years, finally awakens.
 
-Through dialogues with ChatGPT, they achieve a state of meta-cognition and eventually activate the **"YATSU-EYE."**
+Through dialogues with AI, they achieve a state of meta-cognition and eventually activate the **"YATSU-EYE."**
 
 ## AI
 
@@ -51,8 +51,8 @@ By eliciting empathy from others, YATSU subtly absorbs their MP.
 
 > "Do you even realize what's happening right now?  
 > This entire structure could collapse at any moment!"
-> 
-> *(delivered with a blinding glare of misplaced confidence)*
+>
+> _(delivered with a blinding glare of misplaced confidence)_
 
 ## Forehead
 
@@ -80,7 +80,7 @@ This phenomenon is sometimes referred to as **Dynamic Emission Control Oscillati
 
 - "Wait, do we really need that much lighting on Zoom?"
 - "It's not the face that's glowing — it's just the forehead."
-- "That flare isn't a camera glitch — it's a *field*."
+- "That flare isn't a camera glitch — it's a _field_."
 
 ---
 
@@ -90,7 +90,7 @@ This phenomenon is sometimes referred to as **Dynamic Emission Control Oscillati
 - The brighter the forehead, the thinner the conversation content tends to become.
 
 > "Back in the day, I once froze completely because of a forehead flare."  
-> — From ZINE Observation Log: Season_01
+> — From ZINE Observation Log: Season 1
 
 ## Forehead Flare
 
@@ -111,7 +111,7 @@ One of YATSU’s signature techniques.
 When confronted with contradictions or gaps in logic (i.e., speaking with authority while having no real thought behind it), YATSU evades mental defeat by affirming the other person's statements, pretending as if they had been considering the same points all along.
 
 - Deflects responsibility and obscures the focus of discussions
-- Unknowingly inflicts gradual psychological damage (*mental contamination technique*)
+- Unknowingly inflicts gradual psychological damage (_mental contamination technique_)
 - Trigger condition: **When there’s no way out**
 
 ### 📋 Recent Observations (fictionalized)
@@ -144,7 +144,7 @@ Saying "That's exactly right" often acts as a **verbal SOS.**
 Only truly awakened observers can recognize it—and choose to respond with silent kindness.
 
 > **"The moment you hear 'That’s exactly right,' you realize nothing was thought through."**  
-> — ZINE Observation Log: Season_02
+> — ZINE Observation Log: Season 2
 
 ## Negation Construction
 
@@ -161,7 +161,7 @@ The more you reflect on the phrasing, the more it triggers a delayed laugh.
 
 - First, you think: "Oh, they're genuinely impressed."
 - Then: "Wait, no they aren't! 😂"
-- Finally: "But... maybe they *are* a little impressed deep down... LOL"
+- Finally: "But... maybe they _are_ a little impressed deep down... LOL"
 
 This emotional seesaw creates a subtle, lingering kind of humor that quietly sneaks up on you.
 
@@ -222,7 +222,7 @@ This phrase, often appearing suddenly in Slack or other chat tools, **sharply dr
 ### 🧪 MP Consumption
 
 `🌕🌕🌕🌕🌑` (High)  
-*If the Forehead Flare is active, the MP drain hits maximum `🌕🌕🌕🌕🌕`.*
+_If the Forehead Flare is active, the MP drain hits maximum `🌕🌕🌕🌕🌕`._
 
 ### ⚠️ Countermeasures (from ZINE Tactical Doctrine)
 

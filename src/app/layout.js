@@ -25,7 +25,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className="{`${geistSans.variable} ${geistMono.variable} flex flex-col min-h-screen`}">
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} flex flex-col min-h-screen`}
+      >
         <Header />
         {/* Main content area */}
         <main className="flex flex-col px-6 min-h-[calc(100vh-80px)]">
