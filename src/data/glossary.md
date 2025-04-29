@@ -236,7 +236,7 @@ _If the Forehead Flare is active, the MP drain hits maximum `🌕🌕🌕🌕�
 
 ## 🫣 Overinterpretation:
 
-An observer's act of excessively interpreting the intentions of a superior.  
+The act of excessively interpreting the intentions of a boss, client, or any figure with influence.
 Usually results in unintended chaos affecting subordinates and related parties.
 
 > 💥 **Chance of collateral damage: 90%**
