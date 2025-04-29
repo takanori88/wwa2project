@@ -234,17 +234,34 @@ _If the Forehead Flare is active, the MP drain hits maximum `🌕🌕🌕🌕�
 
 ### A quiet trigger for a **mental blue screen**, striking when you least expect it!
 
-## 🫣 Overinterpretation
+## Overinterpretation
 
 The act of excessively interpreting the intentions of a boss, client, or any figure with influence.
 Usually results in unintended chaos affecting subordinates and related parties.
 
 > 💥 **Chance of collateral damage: 90%**
 
-## **🧪 Context Contamination (CC / C²)**  
-A phenomenon where previous conversations with AI unintentionally bleed into new outputs, tainting the desired response.  
-💡 *Also known as* **CC** or **C²** (not to be confused with a hacker’s Command & Control server).  
+
+## Context Contamination (CC / C²)
+
+A phenomenon where unintended or incorrect context bleeds into an AI's outputs, even if not explicitly requested.  
+It often occurs when prior conversations linger invisibly in the background, distorting intended results.  
+*Also known as* **CC** or **C²** (not to be confused with a hacker’s Command & Control server).
+
 🧼 **Recommended countermeasure:** Start a fresh session when precision is critical.
+
+### Human vs AI
+
+Similarly, in human communication, those with strong preconceptions—or inflated self-assessments—may revert to biased assumptions even after correction, contaminating their outputs.
+
+
+#### 🧠 **Humans**
+  Tend to unconsciously revert to ingrained biases, even after correction.  
+  Recovery is often unreliable, because emotional factors or pride interfere.
+
+#### 🧬 **AI**
+  Can fully reset its context when instructed.  
+  Free from pride, unconscious bias, or emotional contamination.
 
 
 ## Season 1
