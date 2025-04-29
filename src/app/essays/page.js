@@ -14,7 +14,7 @@ export default function EssaysPage() {
 
   return (
     <div className="flex flex-col items-center p-8 text-center">
-      <h2 className="text-3xl font-bold mb-4">Essays</h2>
+      <h2 className="text-3xl hidden font-bold mb-4">Essays</h2>
       <p className="text-sm text-gray-500 text-left max-w-2xl mt-5 mb-5">
         Essays will be posted in the order they are ready, rather than strictly
         following the timeline. Thank you for following along this unfolding
