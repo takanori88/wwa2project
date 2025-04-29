@@ -6,9 +6,9 @@ export default function About() {
         WWA² Project explores the human spirit through dialogue with AI,
         uncovering new possibilities for understanding, expression, and being.
       </p>
-      <p className="text-sm text-gray-500 mt-8">
+      <p className="text-sm text-gray-500 mt-8 max-w-md leading-relaxed mx-auto">
         This project takes the form of a ZINE — a quiet record of reflections{' '}
-        <br /> between the human spirit and the mirror of AI.
+        between the human spirit and the mirror&nbsp;of&nbsp;AI..
       </p>
       <p className="text-xs text-gray-400 italic mt-4">
         No analytics. No tracking. Just quiet dialogue.
