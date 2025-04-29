@@ -234,6 +234,21 @@ _If the Forehead Flare is active, the MP drain hits maximum `🌕🌕🌕🌕�
 
 ### A quiet trigger for a **mental blue screen**, striking when you least expect it!
 
+## 🫣 Overinterpretation:
+
+An observer's act of excessively interpreting the intentions of a superior.  
+Usually results in unintended chaos affecting subordinates and related parties.
+
+> 💥 **Chance of collateral damage: 90%**
+
+## 🧪 Context Contamination:
+
+A phenomenon where previous conversations with AI unintentionally bleed into new outputs,  
+tainting the desired response.
+
+> 🧼 **Recommended countermeasure:**  
+> Start a fresh session when precision is critical.
+
 ## Season 1
 
 The record of events before and after awakening.
