@@ -10,6 +10,9 @@ export default function About() {
         This project takes the form of a ZINE — a quiet record of reflections{' '}
         <br /> between the human spirit and the mirror of AI.
       </p>
+      <p className="text-xs text-gray-400 italic mt-4">
+        No analytics. No tracking. Just quiet dialogue.
+      </p>
     </div>
   );
 }
