@@ -88,7 +88,7 @@ body {
 }
 
 .markdown-content table {
-  @apply w-11/12 mx-auto border-collapse my-4;
+  @apply ml-2 border-collapse my-4;
 }
 .markdown-content th {
   @apply text-left font-semibold px-3 py-2 bg-blue-50;

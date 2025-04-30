@@ -290,6 +290,32 @@ But try whispering it to your partner.
 They’ll understand everything —  
 and probably just burst out laughing.
 
+## Mental Chain Reaction  
+A single thought splits like an unstable atom.
+From it, questions or associations emerge — just like neutrons —  
+and strike other thoughts, triggering more reactions.
+It is a chain reaction not of atoms, but of awareness.  
+
+In today’s world, saturated with information and emotions,
+this phenomenon accelerates easily:  
+one idea detonates another, and soon, the mind is ablaze.
+
+> **Related Terms**: Overthinking, Cognitive Overflow, Idea Drift  
+> **Similar Sensations**: “Thoughts running ahead on their own,” “A silent explosion within”  
+
+### Moderator Effect🧵  
+When Mental Chain Reaction begins, you need moderators.  
+These actions help slow the chain — each to varying degrees.
+
+| Moderator Action                   | Suppression Level | Comment                                            |
+| ---------------------------------- | ----------------- | -------------------------------------------------- |
+| Sitting still with eyes closed     | 🟡⚫⚫⚫⚫             | Helps you re-enter the moment, though gently.      |
+| Taking a bath                      | 🟡🟡⚫⚫⚫             | Heat-based neural reset.                           |
+| Walking the dog 🐶                  | 🟡🟡🟡⚫⚫             | Physical motion helps ground runaway thoughts.     |
+| Watching a film or anime           | 🟡🟡🟡🟡⚫             | External immersion can break inner reaction loops. |
+| **Exercise / Physical Training** 💪 | 🟡🟡🟡🟡🟡             | Overwrites mental noise with physical intensity.   |
+
+
 ## Season
 
 The journey of this ZINE is structured into seasons, much like chapters in a long dialogue.
