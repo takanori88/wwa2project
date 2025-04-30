@@ -36,7 +36,7 @@ body {
 }
 
 .markdown-content h2 {
-  @apply text-2xl font-semibold mt-7 mb-3 inline-block border-b-2 border-gray-400 pb-0;
+  @apply text-2xl font-semibold mt-6 mb-2 inline-block border-b-1 border-gray-400 pb-0;
 }
 
 .markdown-content h3 {

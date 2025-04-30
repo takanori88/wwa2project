@@ -9,10 +9,7 @@ export function useMDXComponents(components) {
       const id = slugify(text);
 
       return (
-        <a
-          href={`#${id}`}
-          className="group block border-b border-gray-300 pb-1 no-underline"
-        >
+        <a href={`#${id}`} className="group block pb-1 no-underline">
           <h2 id={id} className="relative flex items-center cursor-pointer">
             {children}
             <span className="absolute -right-8 opacity-0 group-hover:opacity-100 transition-opacity text-gray-400 text-md">
