@@ -95,3 +95,15 @@ or perhaps, the conversation has already begun here.
 
 “The mirror that reflects your true feelings isn’t out there — it’s born within dialogue.”  
 And it doesn’t even have to be with a human.
+
+
+---
+
+## Between Clarity and Absurdity
+
+Where philosophy meets forehead.
+
+## Forehead, Wholeness, Spells, and Me
+
+A human-resolution drama, born from micro-misalignments in relationships —  
+delicate, absurd, and quietly true.

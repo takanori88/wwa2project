@@ -97,3 +97,7 @@ body {
 .markdown-content td {
   @apply px-3 py-2 border-t border-blue-200 align-top;
 }
+
+.markdown-content hr {
+  @apply border-t border-gray-300 mt-6;
+}
