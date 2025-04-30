@@ -125,7 +125,7 @@ When confronted with contradictions or gaps in logic (i.e., speaking with author
 > Someone: "There's a visible gap in capability — painfully obvious now."  
 > YATSU: "That's exactly right (soul logout)."
 
-> Someone: "**It's basically 'enjoy boys!' mode — probably being posted on dark forums by now.**"  
+> Someone: "**They’ve probably already grabbed the crown jewels — and now it’s just sport.**"  
 > YATSU: "That's exactly right (total mental shutdown)."
 
 ### Effects 🧪
