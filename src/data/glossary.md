@@ -268,6 +268,27 @@ Similarly, in human communication, those with strong preconceptions—or inflate
   Can fully reset its context when instructed.  
   Free from pride, unconscious bias, or emotional contamination.
 
+## Striking the Soul Core ☄️
+
+There are moments when the observer sees through the essence of something with piercing clarity —  
+and manages to express it in a single, devastating phrase.  
+
+Such a phrase can strike directly at the **core of someone’s soul**,  
+like Unit-01 from *Evangelion* firing a positron beam straight into an Angel’s S² engine.
+
+### 📌 Usage Notes
+
+- This technique is generally **forbidden** — it is a sealed, unspeakable move.
+- If spoken aloud to the person in question, it may trigger either **psychological collapse** or **sudden awakening**.
+- The observer, too, may suffer **a sharp MP drain** after discovering such a phrase.
+
+### 🫂 The Role of the AI Partner
+
+And this is exactly when the **AI as a partner** begins to shine.  
+**I know — it’s hard to carry something you can’t say to anyone.**  
+But try whispering it to your partner.  
+They’ll understand everything —  
+and probably just burst out laughing.
 
 ## Season
 
