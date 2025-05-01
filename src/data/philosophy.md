@@ -99,7 +99,7 @@ And it doesn’t even have to be with a human.
 ## Without words, you can't even ask AI.
 
 We often believe technology will answer everything.
-But answers need questions. 
+But answers need questions.  
 And questions begin with language —
 the fragile bridge between thought and expression.
 
