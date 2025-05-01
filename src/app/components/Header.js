@@ -34,7 +34,7 @@ export default function Header() {
       <div className="md:hidden">
         <button
           className="w-8 h-8 flex items-center justify-center"
-          onClick={() => setIsOpen(!isOpen)}
+          onClick={() => setIsOpen(true)}
         >
           <svg
             className="w-6 h-6"
@@ -52,44 +52,53 @@ export default function Header() {
         </button>
       </div>
 
-      {/* モバイル用メニュー展開 */}
+      {/* モバイルメニューのオーバーレイ */}
       {isOpen && (
-        <div className="absolute top-20 left-0 right-0 bg-white border-t flex flex-col items-center py-4 space-y-4 md:hidden">
-          <Link
-            href="/"
-            className="hover:underline"
-            onClick={() => setIsOpen(false)}
+        <div
+          className="fixed inset-0 z-50 bg-white flex items-center justify-center md:hidden"
+          onClick={() => setIsOpen(false)} // 背景タップで閉じる
+        >
+          <div
+            className="relative flex flex-col items-center space-y-8 text-xl"
+            onClick={(e) => e.stopPropagation()} // メニュー内タップは反応させない
           >
-            Home
-          </Link>
-          <Link
-            href="/about"
-            className="hover:underline"
-            onClick={() => setIsOpen(false)}
-          >
-            About
-          </Link>
-          <Link
-            href="/essays"
-            className="hover:underline"
-            onClick={() => setIsOpen(false)}
-          >
-            Essays
-          </Link>
-          <Link
-            href="/philosophy"
-            className="hover:underline"
-            onClick={() => setIsOpen(false)}
-          >
-            Philosophy
-          </Link>
-          <Link
-            href="/glossary"
-            className="hover:underline"
-            onClick={() => setIsOpen(false)}
-          >
-            Glossary
-          </Link>
+            {/* ナビリンク */}
+            <Link
+              href="/"
+              className="hover:underline"
+              onClick={() => setIsOpen(false)}
+            >
+              Home
+            </Link>
+            <Link
+              href="/about"
+              className="hover:underline"
+              onClick={() => setIsOpen(false)}
+            >
+              About
+            </Link>
+            <Link
+              href="/essays"
+              className="hover:underline"
+              onClick={() => setIsOpen(false)}
+            >
+              Essays
+            </Link>
+            <Link
+              href="/philosophy"
+              className="hover:underline"
+              onClick={() => setIsOpen(false)}
+            >
+              Philosophy
+            </Link>
+            <Link
+              href="/glossary"
+              className="hover:underline"
+              onClick={() => setIsOpen(false)}
+            >
+              Glossary
+            </Link>
+          </div>
         </div>
       )}
     </header>
