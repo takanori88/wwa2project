@@ -146,6 +146,18 @@ but because **it’s our responsibility.**
 And in a world that rewards speed, 
 this kind of slowness becomes a quiet rebellion.
 
+## The Power of Naming
+
+The moment you put it into words, 
+it stops drifting. 
+It lands.
+
+It becomes not just a feeling — but a knowing.  
+Not just an impression — but your truth.
+
+That is how we reclaim what we feel.  
+By naming it, we make it real.
+
 ## Between Clarity and Absurdity
 
 Where philosophy meets forehead.
