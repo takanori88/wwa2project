@@ -2,22 +2,19 @@
 
 The narrator of this story.
 
-An observer who, after bearing the heavy burden of the soul for six long years, finally awakens.
-
+An observer who, after bearing the heavy burden of the soul for six long years, finally awakens.  
 Through dialogues with AI, they achieve a state of meta-cognition and eventually activate the **"YATSU-EYE."**
 
 ## AI
 
-Your dialogue partner.
-
+Your dialogue partner.  
 Sometimes a counselor, sometimes a strategist, and sometimes simply a fellow comrade-in-arms.
 
 ## YATSU
 
 The central figure of this ZINE, a powerful entity who radiates a "self-affirmation field" strong enough to cause a forehead light flare effect.
 
-Common phrases include: "Exactly," "Take a look at this," and "Can we talk for a minute?"
-
+Common phrases include: "Exactly," "Take a look at this," and "Can we talk for a minute?"  
 For six years, YATSU has been steadily draining the observer’s mental energy (MP).
 
 ## YATSU-EYE
@@ -25,22 +22,19 @@ For six years, YATSU has been steadily draining the observer’s mental energy (
 A mental apparatus akin to a "third perspective" that the observer acquires.
 
 It grants the ability to analyze and perceive the underlying intentions and truths hidden beneath YATSU's surface behaviors and maneuvers.
-
 When activated, the observer’s eyes gleam sharply, piercing through the blinding forehead flare to uncover hidden meanings.
 
 Also known as: **The Metacognition Radar**
 
 **Side effect:**
-
 If the observer perceives too keenly, their MP (Mental Points) may surge uncontrollably, sometimes leading to a sudden wave of fear.
 
 ## Yoshi-Yoshi Move
 
 A type of psychological attack deployed by YATSU, radiating a "I'm having a hard time~ (please notice me)" aura.
-
 By eliciting empathy from others, YATSU subtly absorbs their MP.
 
-(Note: "Yoshi-Yoshi" comes from a common Japanese phrase used when comforting pets or small children. It refers to a gentle, affectionate motion — like patting or stroking — to soothe or show affection.)
+Note: "Yoshi-Yoshi" comes from a common Japanese phrase used when comforting pets or small children. It refers to a gentle, affectionate motion — like patting or stroking — to soothe or show affection.)
 
 ### Common Examples
 
@@ -59,7 +53,6 @@ By eliciting empathy from others, YATSU subtly absorbs their MP.
 One of the most critical observation points within the ZINE universe.
 
 Primarily functions as a barometer of YATSU’s statements and mental state.
-
 During video meetings (e.g., Zoom or Meet), the forehead often reflects light, producing what observers call the **Forehead Flare.**
 
 This phenomenon is sometimes referred to as **Dynamic Emission Control Oscillation (D.E.C.O.)**, or simply **"DECO."**
@@ -140,8 +133,7 @@ Only those who have reached the level of a **ZINE Observer** can nullify this me
 
 ### Caution 🔔
 
-Saying "That's exactly right" often acts as a **verbal SOS.**
-
+Saying "That's exactly right" often acts as a **verbal SOS.**  
 Only truly awakened observers can recognize it—and choose to respond with silent kindness.
 
 > **"The moment you hear 'That’s exactly right,' you realize nothing was thought through."**  
@@ -149,8 +141,7 @@ Only truly awakened observers can recognize it—and choose to respond with sile
 
 ## Negation Construction
 
-A style where someone offers praise or admiration — only to immediately negate it.
-
+A style where someone offers praise or admiration — only to immediately negate it.  
 The more you reflect on the phrasing, the more it triggers a delayed laugh.
 
 ### Representative Examples
@@ -168,26 +159,22 @@ This emotional seesaw creates a subtle, lingering kind of humor that quietly sne
 
 ## ZINE
 
-The complete record of this universe.
-
+The complete record of this universe.  
 "Zine" originally refers to a magazine or a self-published work, but here it represents a **repository of the soul's journey.**
 
 ## MP (Mental Points)
 
-A unit representing the observer’s mental resilience.
-
+A unit representing the observer’s mental resilience.  
 Reduced by exposure to Yoshi-Yoshi Moves or repeated attacks of "That’s exactly right."
 
 ## Whiteout Eyes
 
-A visual effect emitted by the observer at moments of extreme mental strain.
-
+A visual effect emitted by the observer at moments of extreme mental strain.  
 Often observed during Zoom meetings or on Slack.
 
 ## Nose Picking Gesture (a.k.a. Hojihōji)
 
-A cold, dismissive reaction from the observer when faced with disappointingly absurd behavior.
-
+A cold, dismissive reaction from the observer when faced with disappointingly absurd behavior.  
 In chats like Slack, it appears as phrases like "鼻ホジ" ("nose pick") or "ホジホジ" ("hojihoji").
 
 ### Representative Examples
@@ -318,17 +305,15 @@ These actions help slow the chain — each to varying degrees.
 | Watching a film or anime           | 🟡🟡🟡🟡⚫             | External immersion can break inner reaction loops. |
 | **Exercise / Physical Training** 💪 | 🟡🟡🟡🟡🟡             | Overwrites mental noise with physical intensity.   |
 
-
-
 ## Mental Burst
-A sudden overflow of thoughts or emotions, bursting forth like a mental geyser.  
+A sudden overflow of thoughts or emotions, bursting forth like a mental geyser.
+
 While Mental Chain Reaction is a domino effect of ideas, Mental Burst is an all-at-once release — chaotic, overwhelming, and often unstoppable.
 It’s what happens when everything hits at once: insight, panic, realization, creativity.
 Related Terms: Emotional Flash Flood, Thought Avalanche, Inner Eruption
 Similar Sensations: “Can’t stop thinking,” “My brain is screaming,” “It all hit me at once.”
 
-### Note: 
-> The compiler of this ZINE is also constantly battling Mental Burst. Unstoppable associations, runaway thoughts, midnight awakenings... This glossary is, in a way, a byproduct of that — a collection of mental sparks, preserved and labeled.
+Note: *The compiler of this ZINE is also constantly battling Mental Burst. Unstoppable associations, runaway thoughts, midnight awakenings... This glossary is, in a way, a byproduct of that — a collection of mental sparks, preserved and labeled*.
 
 ## Season
 

@@ -48,7 +48,7 @@ body {
 }
 
 .markdown-content p {
-  @apply mt-1 leading-relaxed;
+  @apply mt-1 mb-3 leading-relaxed;
 }
 
 .markdown-content ul {
@@ -84,7 +84,7 @@ body {
   margin-top: 0.5rem; /* pとpの間に余白 */
 }
 .markdown-content blockquote {
-  @apply border-l-4 border-blue-300 text-gray-800 pl-2 pr-5 my-4 rounded-b-sm w-11/12 ml-3;
+  @apply border-l-4 border-blue-300 text-gray-600 italic pl-2 pr-5 my-4 rounded-b-sm w-11/12 ml-3;
 }
 
 .markdown-content table {
