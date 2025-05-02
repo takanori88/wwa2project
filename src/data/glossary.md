@@ -299,8 +299,11 @@ It is a chain reaction not of atoms, but of awareness.
 In today’s world, saturated with information and emotions,
 this phenomenon accelerates easily:  
 one idea detonates another, and soon, the mind is ablaze.
+A Mental Chain Reaction may sometimes escalate into a full-blown Mental Burst — a sudden, overwhelming flood of thoughts.
 
-> **Related Terms**: Overthinking, Cognitive Overflow, Idea Drift  
+For a related but more explosive phenomenon, see Mental Burst.
+
+> **Related Terms**: Overthinking, Cognitive Overflow, Idea Drift, Mental Burst  
 > **Similar Sensations**: “Thoughts running ahead on their own,” “A silent explosion within”  
 
 ### Moderator Effect🧵  
@@ -315,6 +318,17 @@ These actions help slow the chain — each to varying degrees.
 | Watching a film or anime           | 🟡🟡🟡🟡⚫             | External immersion can break inner reaction loops. |
 | **Exercise / Physical Training** 💪 | 🟡🟡🟡🟡🟡             | Overwrites mental noise with physical intensity.   |
 
+
+
+## Mental Burst
+A sudden overflow of thoughts or emotions, bursting forth like a mental geyser.  
+While Mental Chain Reaction is a domino effect of ideas, Mental Burst is an all-at-once release — chaotic, overwhelming, and often unstoppable.
+It’s what happens when everything hits at once: insight, panic, realization, creativity.
+Related Terms: Emotional Flash Flood, Thought Avalanche, Inner Eruption
+Similar Sensations: “Can’t stop thinking,” “My brain is screaming,” “It all hit me at once.”
+
+### Note: 
+> The compiler of this ZINE is also constantly battling Mental Burst. Unstoppable associations, runaway thoughts, midnight awakenings... This glossary is, in a way, a byproduct of that — a collection of mental sparks, preserved and labeled.
 
 ## Season
 
