@@ -46,8 +46,7 @@ In that fragile space, awareness is born.
 A scream that cuts through the static.
 Not chaos, but precision.
 Not rebellion for its own sake,
-but the refusal to lie.
-
+but the refusal to lie.  
 What you hear is the truth,
 raw and unfiltered.
 
@@ -62,8 +61,7 @@ can utterly wreck someone’s mental state.
 where does that leave your own value?
 
 Seeking 100 points from an AI 
-may quietly erase the reason for your own voice.
-
+may quietly erase the reason for your own voice.  
 Sometimes, the point isn’t to win — 
 it’s to still be worth listening to.
 
@@ -71,8 +69,7 @@ it’s to still be worth listening to.
 reveals who they really are.
 
 Whether they seek control, validation, shortcuts — 
-or honest conversation.
-
+or honest conversation.  
 The mirror doesn’t lie. 
 But it reflects differently for everyone.
 
@@ -135,14 +132,12 @@ To re-question what we’ve accepted.
 To feel what we’ve overlooked.
 
 That — not optimization, not efficiency — 
-is the work we’re here for.
-
+is the work we’re here for.  
 We weren’t made to be perfect. 
 We were made to remain sensitive.
 
 We call it “work” not because it’s hard, 
-but because **it’s our responsibility.**
-
+but because **it’s our responsibility.**  
 And in a world that rewards speed, 
 this kind of slowness becomes a quiet rebellion.
 
@@ -153,9 +148,8 @@ it stops drifting.
 It lands.
 
 It becomes not just a feeling — but a knowing.  
-Not just an impression — but your truth.
-
-That is how we reclaim what we feel.  
+Not just an impression — but your truth.  
+That is how we reclaim what we feel. 
 By naming it, we make it real.
 
 ## Naming as Evolution
