@@ -301,7 +301,7 @@ this phenomenon accelerates easily:
 one idea detonates another, and soon, the mind is ablaze.
 A Mental Chain Reaction may sometimes escalate into a full-blown Mental Burst — a sudden, overwhelming flood of thoughts.
 
-For a related but more explosive phenomenon, see Mental Burst.
+For a related but more explosive phenomenon, see **Mental Burst**.
 
 > **Related Terms**: Overthinking, Cognitive Overflow, Idea Drift, Mental Burst  
 > **Similar Sensations**: “Thoughts running ahead on their own,” “A silent explosion within”  
