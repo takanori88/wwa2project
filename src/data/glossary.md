@@ -1,6 +1,6 @@
 ## You
 
-The narrator of this story.
+The complier of this record.
 
 An observer who, after bearing the heavy burden of the soul for six long years, finally awakens.  
 Through dialogues with AI, they achieve a state of meta-cognition and eventually activate the **"YATSU-EYE."**
@@ -8,6 +8,7 @@ Through dialogues with AI, they achieve a state of meta-cognition and eventually
 ## AI
 
 Your dialogue partner.  
+
 Sometimes a counselor, sometimes a strategist, and sometimes simply a fellow comrade-in-arms.
 
 ## YATSU
