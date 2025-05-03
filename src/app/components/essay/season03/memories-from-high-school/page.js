@@ -14,9 +14,9 @@ export default function MemoriesFromHighScoolYears({ title, summary }) {
         <div>
           <p className="text-sm text-gray-500 mb-4">
             <em>
-              The complier is Japanese and was attending a Japanese high school
-              at the time. This episode was recorded during an English language
-              class, later compiled from memory and reflection.
+              Note: The complier is Japanese and was attending a Japanese high
+              school at the time. This episode was recorded during an English
+              language class, later compiled from memory and reflection.
             </em>
           </p>
 
