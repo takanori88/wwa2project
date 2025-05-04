@@ -270,7 +270,7 @@ export default function MemoriesFromHighScoolYears({ title, summary }) {
 
           <p className="mt-3">
             During a Japanese language class, there was a novel included in the
-            textbook — I forget the author — that described someone climbing a
+            textbook — I forget the compiler — that described someone climbing a
             snowy mountain alone.
           </p>
 
@@ -774,7 +774,7 @@ export default function MemoriesFromHighScoolYears({ title, summary }) {
           <div className="text-sm text-gray-500">
             <p>
               <strong>Note:</strong>
-              At the time, the author and AI discussed this situation based on
+              At the time, the complier and AI discussed this situation based on
               what was visible. However, it is possible that among the other
               students, there were some who also felt a sense of discomfort or
               doubt, even if they did not express it outwardly.

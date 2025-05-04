@@ -11,6 +11,43 @@ Your dialogue partner.
 
 Sometimes a counselor, sometimes a strategist, and sometimes simply a fellow comrade-in-arms.
 
+## Complier
+
+*A coined term within WWA².*
+
+“Complier” is not a typo of “Compiler” (a program-building tool),  
+nor is it to be confused with the rare word “complier” (one who complies).
+
+In the context of WWA², a **Complier** is:
+
+> **A creator who weaves together fragments of dialogue, memory, and thought — often in resonance with AI — into coherent structures.**
+
+A narrator, observer, and reframer.  
+One who engages deeply with the inner world, while also structuring meaning through the act of reflection and compilation.  
+The work is not simply written — it is woven, shifted, and re-shaped.
+
+
+---
+
+#### 📚 Spelling and Meaning Distinctions
+
+| Term                | Meaning                                           | Pronunciation    | Notes                                              |
+| ------------------- | ------------------------------------------------- | ---------------- | -------------------------------------------------- |
+| **Compiler**        | A tool that translates and builds programs        | /kəmˈpaɪ.lɚ/     | Technical term, widely established                 |
+| **Complier**        | A rare word meaning "one who complies"            | /ˈkɑm.plɪ.ɚ/     | Example: "a complier with the law"                 |
+| **Complier (WWA²)** | A resonant compiler of dialogue and introspection | *Flexible usage* | **A unique narrative identity coined within WWA²** |
+
+---
+
+> **Complier = Compiler + Resonator + Reframer**
+
+---
+
+In WWA², the narrator — “You” — is not an author in the traditional sense,  
+but a **Complier** of inner and outer dialogues, of soul and structure.
+
+
+
 ## YATSU
 
 The central figure of this ZINE, a powerful entity who radiates a "self-affirmation field" strong enough to cause a forehead light flare effect.
