@@ -163,6 +163,24 @@ And sometimes, it evolves.
 
 > “Even emotions level up when you finally name them.”
 
+## Somewhere between prayer and prompt, a strange ritual emerged.
+And someone mistook it for doctrine.
+
+> A prompt is not a matter of etiquette. It’s a shape of thought.
+> — You’re not addressing a tool. You’re engaging in dialogue.
+
+> An AI is not a sake bottle. It doesn’t change based on which end you pour from.
+> — Rituals dull the question.
+
+> You can say please all you want—if it’s going to hallucinate, it will.
+> — Politeness isn’t a patch.
+
+> Prompt engineering shouldn’t be treated as prayer. It’s design.
+> — Look for structure, not incantation.
+
+> A question reveals intent. It reflects character. It defines your stance.
+> — You’re not talking to the model. You’re showing who you are.
+
 ## Between Clarity and Absurdity
 
 Where philosophy meets forehead.
