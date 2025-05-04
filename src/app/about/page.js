@@ -4,8 +4,9 @@ export default function About() {
       <h1 className="text-4xl font-bold mb-6">About WWA² Project</h1>
       <p className="max-w-xl text-lg leading-relaxed">
         WWA² Project explores the human spirit through dialogue with AI,
-        uncovering new possibilities for understanding, expression, and being. A
-        thousand dialogues, but only one question echoes through them all.
+        uncovering new possibilities for understanding, expression, and being.
+        &nbsp;A thousand dialogues, but only one question echoes through them
+        all.
       </p>
       <p className="text-sm text-gray-500 mt-8 max-w-md leading-relaxed mx-auto">
         This project takes the form of a ZINE — a quiet record of reflections{' '}
