@@ -101,3 +101,50 @@ body {
 .markdown-content hr {
   @apply border-t border-gray-300 mt-6;
 }
+
+.markdown-content code {
+  font-family: 'Fira Code', 'Menlo', monospace;
+}
+
+.markdown-content pre {
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  overflow: auto;
+  border-radius: 0.5rem;
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+}
+
+.markdown-content code[class*='language-'] {
+  display: block;
+  padding: 2.2rem 1rem 0.8rem; /* 👈 上方向に余白を追加 */
+  font-family: 'Fira Code', monospace;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  position: relative;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+.markdown-content code[class*='language-']::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: attr(class);
+  padding: 0.25rem 0.5rem;
+  background-color: #e2e8f0;
+  color: #1f2937;
+  font-weight: bold;
+  font-size: 0.7rem;
+  text-transform: none;
+  border-bottom-right-radius: 0.375rem;
+}
+
+.markdown-content code.language-python::before {
+  content: 'Python';
+}
+
+.markdown-content code.language-js::before {
+  content: 'javascript';
+}

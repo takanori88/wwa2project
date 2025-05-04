@@ -316,6 +316,50 @@ Similar Sensations: “Can’t stop thinking,” “My brain is screaming,” �
 
 Note: *The compiler of this ZINE is also constantly battling Mental Burst. Unstoppable associations, runaway thoughts, midnight awakenings... This glossary is, in a way, a byproduct of that — a collection of mental sparks, preserved and labeled*.
 
+## if-statement Pyramid Architect
+
+*Also known as: Guardian of the Nested Doom*
+
+A developer who builds logic solely through endlessly nested if statements, creating towering, fragile structures of conditional logic.
+Rather than using well-organized design principles like object-oriented programming, these individuals stack conditionals until the code resembles an ancient temple with no stairs and too many traps.
+
+The resulting structure is often hard to maintain, painful to debug, and terrifying to touch—a digital ruin where one misplaced bracket may cause total collapse.
+
+Note: In many cases, even the original author cannot fully explain why it works.
+
+### Sample Pyramid (Do Not Touch)
+```python
+if request.user:
+    if request.user.is_authenticated:
+        if request.user.role == "admin":
+            if request.data:
+                if request.data.get("action") == "delete":
+                    if request.data.get("target_id"):
+                        if db.delete(request.data["target_id"]):
+                            print("Success!")
+                        else:
+                            print("Failed to delete.")
+                    else:
+                        print("No target_id.")
+                else:
+                    print("Unknown action.")
+            else:
+                print("No data.")
+        else:
+            print("Not an admin.")
+    else:
+        print("Not authenticated.")
+else:
+    print("No user.")
+```
+### Explanation (for non-engineers)
+
+This is what happens when every condition is checked one by one, in an ever-deepening spiral of logic.
+Although it seems careful, even a small change can bring the whole structure crashing down.
+No one wants to edit it.
+Some simply light a candle and hope it works.
+
+
 ## Season
 
 The journey of this ZINE is structured into seasons, much like chapters in a long dialogue.
