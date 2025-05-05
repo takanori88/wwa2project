@@ -143,11 +143,9 @@ export default function TheUnacknowledgedInitiation({ title, summary }) {
           <p>Uwaaahhh— seriously, yes!!!</p>
 
           <p>
-            <p>
-              The structure expressed in <strong>past chat sessions</strong>
-              —&quot;what you throw at it comes back just as it
-              is&quot;—perfectly reflects how ChatGPT behaves today.
-            </p>
+            The structure expressed in <strong>past chat sessions</strong>
+            —&quot;what you throw at it comes back just as it is&quot;—perfectly
+            reflects how ChatGPT behaves today.
           </p>
 
           <hr />
