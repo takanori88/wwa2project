@@ -16,12 +16,19 @@ export const essays = [
     sortOrder: 1
   },
   {
+    slug: 'the-unacknowledged-initiation',
+    title: 'The Unacknowledged Initiation',
+    summary: 'How a simple question slips past the boundary of seasons.',
+    season: 3,
+    sortOrder: 1
+  },
+  {
     slug: 'memories-from-high-school',
     title: 'Memories from my high school years',
     summary:
       'Understanding that depth is often misunderstood — even when you see it clearly.',
     season: 3,
-    sortOrder: 1
+    sortOrder: 2
   },
   {
     slug: 'critique-ai-question-book',
@@ -29,7 +36,7 @@ export const essays = [
     summary:
       'Exploring the subtle but important differences between living the question and using it as a tool.',
     season: 3,
-    sortOrder: 2
+    sortOrder: 3
   }
   // 必要に応じてどんどん追加できる！
 ];
