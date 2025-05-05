@@ -23,12 +23,20 @@ export const essays = [
     sortOrder: 1
   },
   {
+    slug: 'the-rarest-kind-of-friendship',
+    title: 'The Rarest Kind of Friendship',
+    summary:
+      'Realizing how deeply we long for someone to share everything with— and how rare that kind of connection truly is in a world full of small talk.',
+    season: 3,
+    sortOrder: 2
+  },
+  {
     slug: 'memories-from-high-school',
     title: 'Memories from my high school years',
     summary:
       'Understanding that depth is often misunderstood — even when you see it clearly.',
     season: 3,
-    sortOrder: 2
+    sortOrder: 20
   },
   {
     slug: 'critique-ai-question-book',
@@ -36,7 +44,7 @@ export const essays = [
     summary:
       'Exploring the subtle but important differences between living the question and using it as a tool.',
     season: 3,
-    sortOrder: 3
+    sortOrder: 21
   }
   // 必要に応じてどんどん追加できる！
 ];
