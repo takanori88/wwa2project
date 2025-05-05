@@ -10,6 +10,7 @@
     "escape": "node scripts/escape-quotes.js"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
     "@mdx-js/loader": "^3.1.0",
     "@next/mdx": "^15.3.1",
     "highlight.js": "^11.11.1",

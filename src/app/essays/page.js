@@ -34,13 +34,15 @@ export default function EssaysPage() {
             key={season}
             season={season}
             title={
-              <>
-                Season {season} ({essays.length}{' '}
-                {essays.length === 1 ? 'episode' : 'episodes'})
-                <span className="block text-gray-500 italic text-sm mt-1">
+              <div>
+                <div className="flex items-center">
+                  Season {season} ({essays.length}{' '}
+                  {essays.length === 1 ? 'episode' : 'episodes'})
+                </div>
+                <div className="text-gray-500 italic text-sm mt-1">
                   {seasons[season]?.title}
-                </span>
-              </>
+                </div>
+              </div>
             }
           >
             <div className="pt-2 pb-6 px-8 space-y-6 text-left">
