@@ -31,6 +31,14 @@ export const essays = [
     sortOrder: 2
   },
   {
+    slug: 'origin-of-wwa2',
+    title: 'Origin of "Who We Are When We Ask"',
+    summary:
+      'It wasn’t planned. It wasn’t framed. But somehow, it became everything.',
+    season: 3,
+    sortOrder: 3
+  },
+  {
     slug: 'memories-from-high-school',
     title: 'Memories from my high school years',
     summary:
