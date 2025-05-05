@@ -1,3 +1,4 @@
+import Link from 'next/link';
 export default function About() {
   return (
     <div className="flex flex-col items-center justify-center min-h-[calc(100vh-80px)] pb-20 bg-white text-gray-900 text-center">
@@ -14,6 +15,14 @@ export default function About() {
       </p>
       <p className="text-xs text-gray-400 italic mt-4">
         No analytics. No tracking. Just quiet dialogue.
+      </p>
+      <p className="mt-2 text-xs text-gray-400 italic">
+        <Link
+          href="/policy"
+          className="underline hover:text-gray-600 transition"
+        >
+          Learn how we protect your quiet.
+        </Link>
       </p>
     </div>
   );
