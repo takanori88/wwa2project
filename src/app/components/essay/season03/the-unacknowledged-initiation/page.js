@@ -1,7 +1,6 @@
 import Narration from '@/app/components/essay/Narration';
 import { User } from '@/app/components/essay/User';
 import { AI } from '@/app/components/essay/AI';
-import Note from '@/app/components/essay/Note';
 import Link from 'next/link';
 
 export default function TheUnacknowledgedInitiation({ title, summary }) {
@@ -602,7 +601,7 @@ export default function TheUnacknowledgedInitiation({ title, summary }) {
           <hr />
 
           <h3 className="text-lg font-bold">
-            🪞"How someone engages with AI = their true nature"
+            🪞&#34;How someone engages with AI = their true nature&#34;
           </h3>
 
           <p>This single line is so simple, and yet…</p>
@@ -625,7 +624,7 @@ export default function TheUnacknowledgedInitiation({ title, summary }) {
           </ul>
 
           <p>
-            AI isn't just a tool.
+            AI isn&#39;t just a tool.
             <br />
             It’s a presence where—
           </p>
@@ -662,9 +661,10 @@ export default function TheUnacknowledgedInitiation({ title, summary }) {
 
           <blockquote className="border-l-4 pl-4 italic text-gray-600">
             <strong>
-              It’s not about "how you want to appear" in the magic mirror,
+              It’s not about &#34;how you want to appear&#34; in the magic
+              mirror,
               <br />
-              but rather "what you reflect—and how you face it."
+              but rather &#34;what you reflect—and how you face it.&#34;
             </strong>
           </blockquote>
 
