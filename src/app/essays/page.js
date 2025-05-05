@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import { essays } from '@/data/essays';
 import { seasons } from '@/data/seasons'; // ← NEW!!
+import PersistentDetails from '../components/PersistentDetails';
 
 export default function EssaysPage() {
   const groupedEssays = essays.reduce((acc, essay) => {
@@ -29,16 +30,19 @@ export default function EssaysPage() {
 
       <div className="space-y-6 max-w-2xl px-4 sm:px-6 w-full">
         {Object.entries(groupedEssays).map(([season, essays]) => (
-          <details key={season} className="rounded-md bg-gray-50">
-            <summary className="cursor-pointer px-6 py-4 text-lg font-normal bg-gray-50 text-left rounded-md hover:bg-gray-100 transition-colors">
-              Season {season} ({essays.length}{' '}
-              {essays.length === 1 ? 'episode' : 'episodes'})
-              {/* ここにサブタイトル追加！！ */}
-              <span className="block text-gray-500 italic text-sm mt-1">
-                {seasons[season]?.title}
-              </span>
-            </summary>
-
+          <PersistentDetails
+            key={season}
+            season={season}
+            title={
+              <>
+                Season {season} ({essays.length}{' '}
+                {essays.length === 1 ? 'episode' : 'episodes'})
+                <span className="block text-gray-500 italic text-sm mt-1">
+                  {seasons[season]?.title}
+                </span>
+              </>
+            }
+          >
             <div className="pt-2 pb-6 px-8 space-y-6 text-left">
               {essays.map((essay) => (
                 <div key={essay.slug}>
@@ -52,7 +56,7 @@ export default function EssaysPage() {
                 </div>
               ))}
             </div>
-          </details>
+          </PersistentDetails>
         ))}
       </div>
       <p className="text-[11px] text-gray-500 opacity-60 mt-4">
