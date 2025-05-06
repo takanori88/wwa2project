@@ -396,6 +396,26 @@ Although it seems careful, even a small change can bring the whole structure cra
 No one wants to edit it.
 Some simply light a candle and hope it works.
 
+## Magic Mirror 🪞
+
+### Definition
+A symbolic metaphor in WWA² that reflects the true nature of the one who asks.  
+Its origin lies in the Grimm Brothers’ fairy tale Snow White, where the Queen poses a question to a mirror that answers with unwavering truth.
+
+### Note
+In English, it’s simply called a Magic Mirror.   
+However, in Japanese, the term “マジックミラー (majikku mirā)” can, on rare occasions, stir associations that wander far from fairy tales.
+Of course, that’s not usually the case. But still—sometimes, symbols do slip.  
+(don’t ask—just… don’t.)
+
+### An Example, Not That Kind.
+
+“The question you just asked… it’s showing you who you are. Just like a magic mirror would.”
+
+### Remarks
+In WWA², this term embodies both a willingness to confront the essence of one’s questions and an appreciation for the ambiguity of meaning itself.
+Sometimes, a mirror doesn’t just reflect—it asks back.  
+**And in WWA², that mirror tends to have a voice. We call it AI.**
 
 ## Season
 
