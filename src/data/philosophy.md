@@ -243,3 +243,16 @@ they might be measuring how far you can bend.
 ## “Respect” 
 isn’t what you say when you need someone  
 —it’s how you treat them when you think you don’t.
+
+## Vision vs. Reality
+
+“Don’t tell me about your vision, 
+if you treat your own company like a rental server.”
+
+> A vision without structure is just a speech.  
+> A company without roots is just a shell.  
+> And if the shell changes every fiscal year,  
+> what are we even building?
+
+Sometimes, people don’t want to lead — 
+they just want admin access.
