@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.who-we-are-when-we-ask.com
+
+# Sitemaps
+Sitemap: https://www.who-we-are-when-we-ask.com/sitemap.xml

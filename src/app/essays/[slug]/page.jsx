@@ -14,3 +14,7 @@ export default async function EssayPage({ params }) {
 
   return <EssayComponent title={essayData.title} summary={essayData.summary} />;
 }
+
+export async function generateStaticParams() {
+  return essays.map(({ slug }) => ({ slug }));;
+}
