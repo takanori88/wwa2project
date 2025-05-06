@@ -239,3 +239,7 @@ The world is not just beautiful.
 they might be measuring how far you can bend.  
 “Not all warmth means you’re safe.”  
  — Sometimes, it’s just the beginning of pressure.
+
+## “Respect” 
+isn’t what you say when you need someone  
+—it’s how you treat them when you think you don’t.
