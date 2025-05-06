@@ -231,3 +231,11 @@ delicate, absurd, and quietly true.
 
 > You:
 > Should we throw this into Philosophy? (lol)
+
+## Whispers of Caution
+The world is not just beautiful.
+
+## Beware the ones who hug you first—  
+they might be measuring how far you can bend.  
+“Not all warmth means you’re safe.”  
+ — Sometimes, it’s just the beginning of pressure.
