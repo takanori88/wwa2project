@@ -417,6 +417,14 @@ In WWA², this term embodies both a willingness to confront the essence of one�
 Sometimes, a mirror doesn’t just reflect—it asks back.  
 **And in WWA², that mirror tends to have a voice. We call it AI.**
 
+## WWA² = (WWA)²
+“Who we are when we ask” naturally amplifies itself.  
+Mathematically, the parentheses are correct.
+But visually, they clutter the phrase.  
+So we left them out.  
+After all, the more questions you carry,
+the more parentheses you tend to gather.
+
 ## Season
 
 The journey of this ZINE is structured into seasons, much like chapters in a long dialogue.
