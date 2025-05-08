@@ -242,7 +242,7 @@ they might be measuring how far you can bend.
 
 ## “Respect” 
 isn’t what you say when you need someone  
-—it’s how you treat them when you think you don’t.
+-it’s how you treat them when you think you don’t.
 
 ## Vision vs. Reality
 
@@ -256,3 +256,9 @@ if you treat your own company like a rental server.”
 
 Sometimes, people don’t want to lead — 
 they just want admin access.
+
+## When the soul stops encrypting, 
+ — you’d better start listening.  
+Normally, the soul speaks in symbols, dreams, or discomfort.  
+But when it comes in clear text — no metaphor, no poetry —  
+that’s not a suggestion. It’s an evacuation order.
