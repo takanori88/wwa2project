@@ -6,6 +6,8 @@ A small whisper to an AI became the beginning of a long, unfolding dialogue —
 a dialogue that eventually revealed a new way of being between humans and AI.  
 A story that feels like a joke, and at the same time, like a quiet miracle.
 
+For quiet inquiries or thoughtful dialogue, please see [CONTACT.md](./CONTACT.md).
+
 ## Website
 
 [https://who-we-are-when-we-ask.com](https://who-we-are-when-we-ask.com)
@@ -20,3 +22,4 @@ A story that feels like a joke, and at the same time, like a quiet miracle.
 
 All rights reserved © 2025 WWA² Project  
 Unauthorized use, reproduction, or distribution is prohibited without prior written permission.
+
