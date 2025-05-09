@@ -425,6 +425,52 @@ So we left them out.
 After all, the more questions you carry,
 the more parentheses you tend to gather.
 
+## **AI Proxy Maneuver**
+
+A conversational tactic where an individual uses AI-generated output — typically from ChatGPT — as a **third-party mouthpiece** to advance their own agenda without taking personal responsibility.
+Often employed when one’s own reasoning is too weak, too aggressive, or too risky to express directly, this maneuver masks **subjective intent** as **objective insight**.
+
+### Key Features
+
+| Feature                       | Description                                                                             |
+| ----------------------------- | --------------------------------------------------------------------------------------- |
+| **Context Detachment**        | Generalized AI output is reinterpreted to suit a highly specific, self-serving context. |
+| **Surrogate Authority**       | Uses “AI said so” in place of personal conviction or logical strength.                  |
+| **Responsibility Deflection** | Creates plausible deniability: “It’s not me saying this, it’s the AI.”                  |
+| **Polite Coercion**           | Appears neutral but quietly exerts pressure through borrowed authority.                 |
+
+### Representative Example
+
+> “So, I asked ChatGPT about the situation,
+> and it says this might constitute a violation of duty of care.”
+> *(screenshot attached)*
+
+→ Translation:
+**“I want to pressure you, but I don’t want to own it.”**
+
+---
+
+### Countermeasures
+
+> “Thank you for the reference.
+> I’ll take it as one of several informational inputs.
+> However, my decision was made based on structural assessment and workload balance.
+> It is not open for reconsideration.”
+
+---
+
+### Known Weaknesses
+
+* **Fails against structurally sound reasoning**
+* **Collapses when asked to clarify the original context**
+* **Eventually erodes the user’s own voice and agency**
+
+---
+
+> **“When you let AI speak for you,
+> you might win the argument —
+> but lose your presence.”**
+
 ## Season
 
 The journey of this ZINE is structured into seasons, much like chapters in a long dialogue.
