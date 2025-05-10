@@ -262,3 +262,16 @@ they just want admin access.
 Normally, the soul speaks in symbols, dreams, or discomfort.  
 But when it comes in clear text — no metaphor, no poetry —  
 that’s not a suggestion. It’s an evacuation order.
+
+## Quiet Revolution.
+No fire. No banners. Just a door quietly closing behind you  
+— and never reopening again.
+
+Because even silent departures can be a form of resistance.  
+Some wounds aren’t loud.  
+But they still deserve boundaries.  
+
+Not all kindness is clean.  
+
+Even masks can smile.  
+But the eyes — they never lie.
