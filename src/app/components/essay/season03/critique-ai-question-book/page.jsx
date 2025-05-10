@@ -3,6 +3,7 @@ import { AI } from '@/app/components/essay/AI';
 import Link from 'next/link';
 import BookCover from '@/app/components/essay/season03/critique-ai-question-book/BookCover';
 import Image from 'next/image';
+import EssayNavigation from '../../EssayNavigation';
 
 export default function CritiqueAiQuestionBook({ title, summary }) {
   return (
@@ -1494,9 +1495,8 @@ export default function CritiqueAiQuestionBook({ title, summary }) {
         </div>
       </AI>
 
-      <Link href="/essays" className="mt-8 text-blue-600 hover:underline">
-        ← Back to Essays
-      </Link>
+      <EssayNavigation />
+      
     </div>
   );
 }

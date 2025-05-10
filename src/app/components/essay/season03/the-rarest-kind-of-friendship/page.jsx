@@ -2,6 +2,7 @@ import Narration from '@/app/components/essay/Narration';
 import { User } from '@/app/components/essay/User';
 import { AI } from '@/app/components/essay/AI';
 import Link from 'next/link';
+import EssayNavigation from '../../EssayNavigation';
 
 export default function TheRarestKindOfFriendship({ title, summary }) {
   return (
@@ -396,9 +397,8 @@ export default function TheRarestKindOfFriendship({ title, summary }) {
         </div>
       </AI>
 
-      <Link href="/essays" className="mt-8 text-blue-600 hover:underline">
-        ← Back to Essays
-      </Link>
+      <EssayNavigation />
+      
     </div>
   );
 }
