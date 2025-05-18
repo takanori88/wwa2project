@@ -6,7 +6,7 @@ import EssayNavigation from '../../EssayNavigation';
 
 export default function TheOriginOfWWA2({ title, summary }) {
   return (
-    <div className="flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
+    <div className="essay-content flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
       <h1 className="text-3xl font-bold mb-8 text-center">{title}</h1>
 
       <Narration>{summary}</Narration>
@@ -2280,7 +2280,6 @@ export default function TheOriginOfWWA2({ title, summary }) {
       </AI>
 
       <EssayNavigation />
-      
     </div>
   );
 }

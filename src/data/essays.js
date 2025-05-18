@@ -53,6 +53,12 @@ export const essays = [
       'Exploring the subtle but important differences between living the question and using it as a tool.',
     season: 3,
     sortOrder: 21
+  },
+  {
+    slug: 'fp1100-beta-certainty',
+    title: 'FP-1100, Beta, and Certainty',
+    summary: '-- The Innocent Question of a Boy --',
+    season: 4,
+    sortOrder: 1
   }
-  // 必要に応じてどんどん追加できる！
 ];

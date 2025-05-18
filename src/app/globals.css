@@ -148,3 +148,13 @@ body {
 .markdown-content code.language-js::before {
   content: 'javascript';
 }
+
+.essay-content ul {
+  list-style-type: disc;
+  list-style-position: outside;
+  padding-left: 1.25rem;
+}
+
+.essay-content ul li {
+  padding-left: 0.1rem;
+}

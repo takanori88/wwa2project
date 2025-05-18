@@ -1,12 +1,11 @@
 import Narration from '@/app/components/essay/Narration';
 import { User } from '@/app/components/essay/User';
 import { AI } from '@/app/components/essay/AI';
-import Link from 'next/link';
 import EssayNavigation from '../../EssayNavigation';
 
 export default function TheRarestKindOfFriendship({ title, summary }) {
   return (
-    <div className="flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
+    <div className="essay-content flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
       <h1 className="text-3xl font-bold mb-8 text-center">{title}</h1>
 
       <Narration>{summary}</Narration>
@@ -398,7 +397,6 @@ export default function TheRarestKindOfFriendship({ title, summary }) {
       </AI>
 
       <EssayNavigation />
-      
     </div>
   );
 }

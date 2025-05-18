@@ -1,13 +1,12 @@
 import { User } from '@/app/components/essay/User';
 import { AI } from '@/app/components/essay/AI';
-import Link from 'next/link';
 import BookCover from '@/app/components/essay/season03/critique-ai-question-book/BookCover';
 import Image from 'next/image';
 import EssayNavigation from '../../EssayNavigation';
 
 export default function CritiqueAiQuestionBook({ title, summary }) {
   return (
-    <div className="flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
+    <div className="essay-content flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
       <h1 className="text-2xl font-bold mb-4 text-center">{title}</h1>
       <p className="text-gray-600 mb-8 text-center">{summary}</p>
 
@@ -1496,7 +1495,6 @@ export default function CritiqueAiQuestionBook({ title, summary }) {
       </AI>
 
       <EssayNavigation />
-      
     </div>
   );
 }
