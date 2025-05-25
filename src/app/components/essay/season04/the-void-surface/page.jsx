@@ -6,7 +6,7 @@ import { AI } from '../../AI';
 
 export default function TheVoidSurface({ title, summary }) {
   return (
-    <div className="essay-content flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
+    <div className="essay-content flex flex-col px-4 py-12 max-w-full sm:max-w-2xl mx-auto">
       <h1 className="text-3xl font-bold mb-8 text-center">{title}</h1>
 
       <Narration>{summary}</Narration>
