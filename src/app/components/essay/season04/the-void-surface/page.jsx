@@ -13,7 +13,8 @@ export default function TheVoidSurface({ title, summary }) {
       <Warning>
         <p>
           This session contains mild spoilers for{' '}
-          <em>The Three-Body Problem</em> and <em>Tenmei no Shirube</em>.
+          <em>The Three-Body Problem</em>, <em>Tenmei no Shirube</em>, and{' '}
+          <em>Interstellar</em>.
         </p>
         <p>
           It also includes scientific reflections on AI and the origins of the
