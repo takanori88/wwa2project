@@ -158,3 +158,10 @@ body {
 .essay-content ul li {
   padding-left: 0.1rem;
 }
+
+.essay-content table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* iOS用スムーズスクロール */
+  max-width: 100%;
+}
