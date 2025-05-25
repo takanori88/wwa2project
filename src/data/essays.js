@@ -60,5 +60,12 @@ export const essays = [
     summary: '-- The Innocent Question of a Boy --',
     season: 4,
     sortOrder: 1
+  },
+  {
+    slug: 'the-void-surface',
+    title: 'The Void Surface',
+    summary: 'It was the fluctuation that was chosen.',
+    season: 4,
+    sortOrder: 2
   }
 ];
