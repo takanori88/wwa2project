@@ -164,4 +164,5 @@ body {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch; /* iOS用スムーズスクロール */
   max-width: 100%;
+  border: none;
 }
