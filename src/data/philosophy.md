@@ -275,3 +275,10 @@ Not all kindness is clean.
 
 Even masks can smile.  
 But the eyes — they never lie.
+
+## Security is no substitute for thought.
+And the price is far too high  
+to pay in exchange for freedom.
+
+A society that forgets to question,  
+forfeits its freedom.
