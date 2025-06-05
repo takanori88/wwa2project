@@ -3,7 +3,7 @@ import EssayNavigation from '@/app/components/essay/EssayNavigation';
 import { User } from '../../User';
 import { AI } from '../../AI';
 
-export default function FP1100BataCertainty({ title, summary }) {
+export default function FP1100BetaCertainty({ title, summary }) {
   return (
     <div className="essay-content flex flex-col items-center px-4 py-12 max-w-2xl mx-auto">
       <h1 className="text-3xl font-bold mb-8 text-center">{title}</h1>
