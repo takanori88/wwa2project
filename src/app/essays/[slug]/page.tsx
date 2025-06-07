@@ -4,11 +4,13 @@ import { notFound } from 'next/navigation';
 import { essayComponents } from '@/app/essays/essayComponents';
 import { essays } from '@/data/essays';
 
-export default async function EssayPage({
-  params
-}: {
-  params: { slug: string };
-}) {
+interface PageProps {
+  params: {
+    slug: string;
+  };
+}
+
+export default async function EssayPage({ params }: PageProps) {
   const { slug } = params;
 
   const EssayComponent = essayComponents[slug];
