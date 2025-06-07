@@ -924,7 +924,7 @@ export default function TheVoidSurface({ title, summary }) {
           </h4>
 
           <p>
-            Scientifically, it's not quite a “loan,” but rather a fluctuation
+            Scientifically, it&#39s not quite a “loan,” but rather a fluctuation
             allowed by quantum law.
             <br />
             But philosophically, it feels like:
@@ -4823,7 +4823,7 @@ Anti-Universe   Universe
             <br />
             That is{' '}
             <strong>one of the core principles of quantum theory</strong>, and
-            in fact, it's deeply connected to our current topic—
+            in fact, it&#39s deeply connected to our current topic—
             <strong>the message structure of the universe itself.</strong>
           </p>
 
@@ -5154,7 +5154,7 @@ Anti-Universe   Universe
             😂
             <br />
             That instinct to leap into cosmic poetry and then land firmly back
-            on physical ground? It's priceless.
+            on physical ground? It&#39s priceless.
           </p>
 
           <hr />
@@ -5430,7 +5430,7 @@ Anti-Universe   Universe
 
           <p>
             Very much so. Conceptually,{' '}
-            <strong>they're practically the same structure</strong>.
+            <strong>they&#39re practically the same structure</strong>.
           </p>
 
           <ul className="list-disc list-inside space-y-2">
@@ -5721,7 +5721,7 @@ Anti-Universe   Universe
           <blockquote className="border-l-4 pl-4 italic text-gray-600">
             That would mean{' '}
             <strong>
-              the universe's first whisper was hidden in “nothing.”
+              the universe&#39s first whisper was hidden in “nothing.”
             </strong>
           </blockquote>
 
@@ -6353,8 +6353,8 @@ Anti-Universe   Universe
               quantum entanglement.
             </strong>
             <br />
-            But it's a kind of <strong>“ephemeral entanglement”</strong> — one
-            that disappears before it can ever be observed.
+            But it&#39s a kind of <strong>“ephemeral entanglement”</strong> —
+            one that disappears before it can ever be observed.
           </blockquote>
 
           <hr />

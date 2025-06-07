@@ -1,9 +1,16 @@
+// app/components/PersistentDetails.tsx
+
 'use client';
 
 import { useState, useEffect } from 'react';
 import { ChevronRightIcon, ChevronDownIcon } from '@heroicons/react/20/solid';
+import { PersistentDetailsProps } from '@/types/components';
 
-export default function PersistentAccordion({ season, title, children }) {
+export default function PersistentAccordion({
+  season,
+  title,
+  children
+}: PersistentDetailsProps) {
   const storageKey = `open-season-${season}`;
   const [isOpen, setIsOpen] = useState(false);
 
