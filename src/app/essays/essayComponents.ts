@@ -1,3 +1,4 @@
+import type { ComponentType } from 'react';
 import MemoriesFromHighSchoolYears from '../components/essay/season03/memories-from-high-school/page';
 import CritiqueAiQuestionBook from '../components/essay/season03/critique-ai-question-book/page';
 import TheUnacknowledgedInitiation from '../components/essay/season03/the-unacknowledged-initiation/page';
@@ -6,7 +7,7 @@ import TheOriginOfWWA2 from '../components/essay/season03/origin-of-wwa2/page';
 import FP1100BetaCertainty from '../components/essay/season04/fp1100-beta-certainty/page';
 import TheVoidSurface from '../components/essay/season04/the-void-surface/page';
 
-export const essayComponents = {
+export const essayComponents: Record<string, ComponentType<{ title: string; summary: string }>> = {
   'memories-from-high-school': MemoriesFromHighSchoolYears,
   'critique-ai-question-book': CritiqueAiQuestionBook,
   'the-unacknowledged-initiation': TheUnacknowledgedInitiation,
