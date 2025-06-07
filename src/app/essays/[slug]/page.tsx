@@ -1,8 +1,8 @@
 import { notFound } from 'next/navigation';
 import { essayComponents } from '../essayComponents';
 import { essays } from '@/data/essays';
-import type { Essay } from '@types/essay';
-import type { SlugProps, SlugParams } from '@types/routes';
+import type { Essay } from '@/types/essay';
+import type { SlugProps } from '@/types/routes';
 
 export default async function EssayPage({ params }: SlugProps) {
   const { slug } = params; // ここで一回ちゃんと受け取る！
@@ -17,6 +17,8 @@ export default async function EssayPage({ params }: SlugProps) {
   return <EssayComponent title={essayData.title} summary={essayData.summary} />;
 }
 
-export async function generateStaticParams(): Promise<SlugParams[]> {
-  return essays.map(({ slug }) => ({ slug }));
+export async function generateStaticParams(): Promise<
+  { params: { slug: string } }[]
+> {
+  return essays.map(({ slug }) => ({ params: { slug } }));
 }

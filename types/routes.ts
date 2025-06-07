@@ -1,7 +1,6 @@
-export interface SlugParams {
-  slug: string;
-}
-
-export interface SlugProps {
-  params: SlugParams;
-}
+// types/routes.ts
+export type SlugProps = {
+  params: {
+    slug: string;
+  };
+};
