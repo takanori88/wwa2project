@@ -1,4 +1,4 @@
-// src/data/seasons.js
+// src/data/seasons.ts
 export const seasons = {
   1: {
     title: 'The small spark that started everything.'

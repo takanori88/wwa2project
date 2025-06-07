@@ -1,6 +1,8 @@
-// src/data/essays.js
+// src/data/essays.ts
 
-export const essays = [
+import type { Essay } from '@/types';
+
+export const essays: Essay[] = [
   // {
   //   slug: 'the-beginning',
   //   title: 'The Beginning(Temporary dummy data)',
@@ -20,7 +22,8 @@ export const essays = [
     title: 'The Unacknowledged Initiation',
     summary: 'How a simple question slips past the boundary of seasons.',
     season: 3,
-    sortOrder: 1
+    sortOrder: 1,
+    date: '2025-05-01'
   },
   {
     slug: 'the-rarest-kind-of-friendship',
@@ -28,7 +31,8 @@ export const essays = [
     summary:
       'Realizing how deeply we long for someone to share everything with— and how rare that kind of connection truly is in a world full of small talk.',
     season: 3,
-    sortOrder: 2
+    sortOrder: 2,
+    date: '2025-05-02'
   },
   {
     slug: 'origin-of-wwa2',
@@ -36,7 +40,8 @@ export const essays = [
     summary:
       'It wasn’t planned. It wasn’t framed. But somehow, it became everything.',
     season: 3,
-    sortOrder: 3
+    sortOrder: 3,
+    date: '2025-05-03'
   },
   {
     slug: 'memories-from-high-school',
@@ -44,7 +49,8 @@ export const essays = [
     summary:
       'Understanding that depth is often misunderstood — even when you see it clearly.',
     season: 3,
-    sortOrder: 20
+    sortOrder: 20,
+    date: '2025-05-04'
   },
   {
     slug: 'critique-ai-question-book',
@@ -52,20 +58,23 @@ export const essays = [
     summary:
       'Exploring the subtle but important differences between living the question and using it as a tool.',
     season: 3,
-    sortOrder: 21
+    sortOrder: 21,
+    date: '2025-05-05'
   },
   {
     slug: 'fp1100-beta-certainty',
     title: 'FP-1100, Beta, and Certainty',
     summary: '-- The Innocent Question of a Boy --',
     season: 4,
-    sortOrder: 1
+    sortOrder: 1,
+    date: '2025-05-06'
   },
   {
     slug: 'the-void-surface',
     title: 'The Void Surface',
     summary: 'It was the fluctuation that was chosen.',
     season: 4,
-    sortOrder: 2
+    sortOrder: 2,
+    date: '2025-05-07'
   }
 ];
