@@ -1,14 +1,17 @@
-// app/essays/[slug]/page.tsx
+// app/components/essay/page.tsx
 
 import { notFound } from 'next/navigation';
 import { essayComponents } from '@/app/essays/essayComponents';
 import { essays } from '@/data/essays';
-import type { Essay } from '@/types';
 
-export default async function EssayPage({ params }: { params: Essay }) {
-  const { slug } = await params; // ここで一回ちゃんと受け取る！
+export default async function EssayPage({
+  params
+}: {
+  params: { slug: string };
+}) {
+  const { slug } = params;
 
-  const EssayComponent = await essayComponents[slug];
+  const EssayComponent = essayComponents[slug];
   const essayData = essays.find((e) => e.slug === slug);
 
   if (!EssayComponent || !essayData) {
@@ -18,6 +21,8 @@ export default async function EssayPage({ params }: { params: Essay }) {
   return <EssayComponent title={essayData.title} summary={essayData.summary} />;
 }
 
-export async function generateStaticParams() {
-  return essays.map(({ slug }) => ({ slug }));
+export async function generateStaticParams(): Promise<
+  { params: { slug: string } }[]
+> {
+  return essays.map(({ slug }) => ({ params: { slug } }));
 }
