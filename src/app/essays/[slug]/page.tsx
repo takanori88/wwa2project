@@ -1,8 +1,11 @@
-import { notFound } from 'next/navigation';
-import { essayComponents } from '../essayComponents';
-import { essays } from '@/data/essays';
+// app/essays/[slug]/page.tsx
 
-export default async function EssayPage({ params }) {
+import { notFound } from 'next/navigation';
+import { essayComponents } from '@/app/essays/essayComponents';
+import { essays } from '@/data/essays';
+import type { Essay } from '@/types';
+
+export default async function EssayPage({ params }: { params: Essay }) {
   const { slug } = await params; // ここで一回ちゃんと受け取る！
 
   const EssayComponent = await essayComponents[slug];
@@ -16,5 +19,5 @@ export default async function EssayPage({ params }) {
 }
 
 export async function generateStaticParams() {
-  return essays.map(({ slug }) => ({ slug }));;
+  return essays.map(({ slug }) => ({ slug }));
 }

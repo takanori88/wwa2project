@@ -1,8 +1,9 @@
 // src/app/essays/page.jsx
 import Link from 'next/link';
 import { essays } from '@/data/essays';
-import { seasons } from '@/data/seasons'; // ← NEW!!
-import PersistentDetails from '../components/PersistentDetails';
+import { seasons } from '@/data/seasons';
+import { Essay } from '@/types';
+import PersistentDetails from '@/app/components/PersistentDetails';
 
 export default function EssaysPage() {
   const groupedEssays = essays.reduce((acc, essay) => {
@@ -29,39 +30,42 @@ export default function EssaysPage() {
       </p>
 
       <div className="space-y-6 max-w-2xl px-2 sm:px-6 w-full">
-        {Object.entries(groupedEssays).map(([season, essays]) => (
-          <PersistentDetails
-            key={season}
-            season={season}
-            title={
-              <div>
-                <div className="flex items-center">
-                  Season {season} ({essays.length}{' '}
-                  {essays.length === 1 ? 'episode' : 'episodes'})
+        {Object.entries(groupedEssays).map(([season, essays]) => {
+          const essayList = essays as Essay[];
+          return (
+            <PersistentDetails
+              key={season}
+              season={season}
+              title={
+                <div>
+                  <div className="flex items-center">
+                    Season {season} ({essayList.length}{' '}
+                    {essayList.length === 1 ? 'episode' : 'episodes'})
+                  </div>
+                  <div className="text-gray-500 italic text-sm mt-1">
+                    {seasons[season]?.title}
+                  </div>
                 </div>
-                <div className="text-gray-500 italic text-sm mt-1">
-                  {seasons[season]?.title}
-                </div>
+              }
+            >
+              <div className="pt-2 pb-6 px-2 sm:px-8 space-y-6 text-left">
+                {essayList.map((essay) => (
+                  <div key={essay.slug}>
+                    <Link
+                      href={`/essays/${essay.slug}`}
+                      className="text-lg tracking-tight font-semibold hover:underline hover:text-blue-600 transition-colors duration-200"
+                    >
+                      {essay.title}
+                    </Link>
+                    <p className="text-gray-600 mb-2 tracking-tight">
+                      {essay.summary}
+                    </p>
+                  </div>
+                ))}
               </div>
-            }
-          >
-            <div className="pt-2 pb-6 px-2 sm:px-8 space-y-6 text-left">
-              {essays.map((essay) => (
-                <div key={essay.slug}>
-                  <Link
-                    href={`/essays/${essay.slug}`}
-                    className="text-lg tracking-tight font-semibold hover:underline hover:text-blue-600 transition-colors duration-200"
-                  >
-                    {essay.title}
-                  </Link>
-                  <p className="text-gray-600 mb-2 tracking-tight">
-                    {essay.summary}
-                  </p>
-                </div>
-              ))}
-            </div>
-          </PersistentDetails>
-        ))}
+            </PersistentDetails>
+          );
+        })}
       </div>
       <p className="text-[11px] text-gray-500 opacity-60 mt-4">
         Essays will be posted in the order they are ready, rather than strictly
@@ -71,4 +75,3 @@ export default function EssaysPage() {
     </div>
   );
 }
-

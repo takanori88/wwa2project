@@ -1,3 +1,4 @@
+// app/components/essay/EssayNavigation.tsx
 import Link from 'next/link';
 
 export default function EssayNavigation() {
