@@ -1,5 +1,5 @@
-import Narration from '@/app/components/essay/Narration';
-import EssayNavigation from '@/app/components/essay/EssayNavigation';
+import Narration from '@/components/essay/Narration';
+import EssayNavigation from '@/components/essay/EssayNavigation';
 import { Warning } from '../../Warning';
 import { User } from '../../User';
 import { AI } from '../../AI';

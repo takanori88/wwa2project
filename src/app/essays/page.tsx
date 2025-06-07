@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { essays } from '@/data/essays';
 import { seasons } from '@/data/seasons';
 import { Essay } from '@/types';
-import PersistentDetails from '@/app/components/PersistentDetails';
+import PersistentDetails from '@/components/PersistentDetails';
 
 export default function EssaysPage() {
   const groupedEssays = essays.reduce((acc, essay) => {
