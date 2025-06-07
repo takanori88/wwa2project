@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { essays } from '@/data/essays';
 import { seasons } from '@/data/seasons';
 import PersistentDetails from '../components/PersistentDetails';
-import type { Essay } from '@/types';
+import type { Essay } from '@types/essay';
 
 export default function EssaysPage() {
   const groupedEssays = essays.reduce<Record<number, Essay[]>>((acc, essay) => {
