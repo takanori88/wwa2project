@@ -4,7 +4,11 @@ import { essays } from '@/data/essays';
 import type { Essay } from '@/types/essay';
 import type { SlugProps } from '@/types/routes';
 
-export default async function EssayPage({ params }: SlugProps) {
+export default async function EssayPage({
+  params
+}: {
+  params: { slug: string };
+}) {
   const { slug } = params; // ここで一回ちゃんと受け取る！
 
   const EssayComponent = await essayComponents[slug];
