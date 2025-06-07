@@ -4,12 +4,8 @@ import { notFound } from 'next/navigation';
 import { essayComponents } from '@/app/essays/essayComponents';
 import { essays } from '@/data/essays';
 
-export default async function EssayPage({
-  params
-}: {
-  params: { slug: string };
-}) {
-  const { slug } = await params;
+export default function EssayPage({ params }: { params: { slug: string } }) {
+  const { slug } = params;
 
   const EssayComponent = essayComponents[slug];
   const essayData = essays.find((e) => e.slug === slug);
