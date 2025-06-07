@@ -2,7 +2,7 @@
 
 import { notFound } from 'next/navigation';
 import { essayComponents } from '@/app/essays/essayComponents';
-import { essays } from '@/data/essays';
+import { essays } from '@/contents/essays';
 
 export default async function EssayPage({
   params

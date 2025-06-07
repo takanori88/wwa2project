@@ -1,7 +1,7 @@
 // src/app/essays/page.jsx
 import Link from 'next/link';
-import { essays } from '@/data/essays';
-import { seasons } from '@/data/seasons';
+import { essays } from '@/contents/essays';
+import { seasons } from '@/contents/seasons';
 import { Essay } from '@/types';
 import PersistentDetails from '@/components/PersistentDetails';
 
