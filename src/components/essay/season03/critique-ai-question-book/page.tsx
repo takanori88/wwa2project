@@ -1,6 +1,6 @@
-import { User } from '@/app/components/essay/User';
-import { AI } from '@/app/components/essay/AI';
-import BookCover from '@/app/components/essay/season03/critique-ai-question-book/BookCover';
+import { User } from '@/components/essay/User';
+import { AI } from '@/components/essay/AI';
+import BookCover from '@/components/essay/season03/critique-ai-question-book/BookCover';
 import Image from 'next/image';
 import EssayNavigation from '../../EssayNavigation';
 

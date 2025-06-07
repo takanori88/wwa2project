@@ -1,6 +1,6 @@
-import Narration from '@/app/components/essay/Narration';
-import { User } from '@/app/components/essay/User';
-import { AI } from '@/app/components/essay/AI';
+import Narration from '@/components/essay/Narration';
+import { User } from '@/components/essay/User';
+import { AI } from '@/components/essay/AI';
 import Link from 'next/link';
 import EssayNavigation from '../../EssayNavigation';
 

@@ -1,4 +1,4 @@
-import { slugify } from '@/app/utils/slugify';
+import { slugify } from '@/utils/slugify';
 
 export function useMDXComponents(components) {
   return {
