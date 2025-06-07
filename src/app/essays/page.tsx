@@ -1,17 +1,18 @@
 // src/app/essays/page.jsx
 import Link from 'next/link';
 import { essays } from '@/data/essays';
-import { seasons } from '@/data/seasons'; // ← NEW!!
+import { seasons } from '@/data/seasons';
 import PersistentDetails from '../components/PersistentDetails';
+import type { Essay } from '@/types';
 
 export default function EssaysPage() {
-  const groupedEssays = essays.reduce((acc, essay) => {
+  const groupedEssays = essays.reduce<Record<number, Essay[]>>((acc, essay) => {
     if (!acc[essay.season]) {
       acc[essay.season] = [];
     }
     acc[essay.season].push(essay);
     return acc;
-  }, {});
+  }, {} as Record<number, Essay[]>);
 
   return (
     <div className="flex flex-col items-center px-3 sm:px-12 py-7 text-center">
