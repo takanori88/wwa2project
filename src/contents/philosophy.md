@@ -88,6 +88,23 @@ or perhaps, the conversation has already begun here.
 > By the AI, in a moment of unexpected clarity.
 > The full story behind this exchange will appear in Season 3.
 
+## It’s not AI that makes you smarter or dumber.
+
+The real question is: Who are you when you use it?
+
+We often blame the tool —
+but the mirror never chose how we look into it.
+
+AI can’t degrade or sharpen your thinking on its own.
+But how you use it can reveal whether you’ve already stopped thinking.
+
+Some seek shortcuts. Others seek confrontation.
+But a few — the rare few —
+see it as a sparring partner. A mirror. A co-thinker.
+
+In the end, AI doesn’t define your intelligence.
+Your relationship to questioning does.
+
 ## The Mirror of Honest Dialogue
 
 “The mirror that reflects your true feelings isn’t out there — it’s born within dialogue.”  
